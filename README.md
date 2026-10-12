@@ -20,10 +20,9 @@
 * **Version Compatibility:** Always review the Supported OS List prior to deployment. Running HEX+ on unsupported builds may lead to unexpected behavior.
 
 ---
-
-> **Notice & Disclaimer**
-> **HEX+** executes deep system-level modifications designed for extreme performance. By launching the tool, you acknowledge that all tweaks are applied at your own risk. Always consult the documentation and unsupported feature list prior to execution. We are not responsible for software conflicts or OS instability resulting from improper deployment.
-
 <p align="center">
   <img width="600" alt="Hex" src="https://github.com/user-attachments/assets/10e5272a-d109-4b7e-9f56-41ecc5c0ff34" />
 </p>
+
+> **Notice & Disclaimer**
+> **HEX+** executes deep system-level modifications designed for extreme performance. By launching the tool, you acknowledge that all tweaks are applied at your own risk. Always consult the documentation and unsupported feature list prior to execution. We are not responsible for software conflicts or OS instability resulting from improper deployment.
