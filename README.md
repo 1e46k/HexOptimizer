@@ -12,7 +12,7 @@ Fuck paid optimizers.
 ![platform](https://img.shields.io/badge/Windows-10%20%7C%2011-blue)
 ![price](https://img.shields.io/badge/price-free-brightgreen)
 
-*made by [@wylziz](https://github.com/wylziz)*
+*made by [@wylziz](https://github.com/1e46k)*
 
 </div>
 
