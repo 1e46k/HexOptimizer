@@ -1,14 +1,18 @@
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/10e5272a-d109-4b7e-9f56-41ecc5c0ff34" alt="HEX+ Optimizer" width="100%">
+
 # ⬡ HEX+ Optimizer
 
 **A free, open, no-bullshit Windows optimizer for gaming.**
 
 Fuck paid optimizers.
 
-![version](https://img.shields.io/badge/version-1.9-orange](https://github.com/user-attachments/assets/10e5272a-d109-4b7e-9f56-41ecc5c0ff34)
+![version](https://img.shields.io/badge/version-1.9-orange)
+![platform](https://img.shields.io/badge/Windows-10%20%7C%2011-blue)
+![price](https://img.shields.io/badge/price-free-brightgreen)
 
-*made by [@wylziz](https://github.com/1e46k)*
+*made by [@wylziz](https://github.com/wylziz)*
 
 </div>
 
